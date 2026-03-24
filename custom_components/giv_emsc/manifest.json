@@ -3,9 +3,9 @@
   "name": "GIV EMS-C",
   "version": "1.0.0",
   "config_flow": true,
-  "documentation": "https://github.com/YOUR_GITHUB_USERNAME/ha-giv-emsc",
-  "issue_tracker": "https://github.com/YOUR_GITHUB_USERNAME/ha-giv-emsc/issues",
+  "documentation": "https://github.com/plandregan/ha-giv-emsc",
+  "issue_tracker": "https://github.com/plandregan/ha-giv-emsc/issues",
   "requirements": ["pymodbus==3.6.9"],
   "iot_class": "local_polling",
-  "codeowners": ["@YOUR_GITHUB_USERNAME"]
+  "codeowners": ["@plandregan"]
 }
