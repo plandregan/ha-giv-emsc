@@ -5,7 +5,7 @@
   "config_flow": true,
   "documentation": "https://github.com/plandregan/ha-giv-emsc",
   "issue_tracker": "https://github.com/plandregan/ha-giv-emsc/issues",
-  "requirements": ["pymodbus==3.6.9"],
+  "requirements": ["pymodbus>=3.6.9"],
   "iot_class": "local_polling",
   "codeowners": ["@plandregan"]
 }
